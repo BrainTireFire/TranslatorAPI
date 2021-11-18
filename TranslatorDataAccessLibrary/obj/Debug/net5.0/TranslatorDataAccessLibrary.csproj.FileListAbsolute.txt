@@ -1,0 +1,15 @@
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\bin\Debug\net5.0\TranslatorDataAccessLibrary.deps.json
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\bin\Debug\net5.0\TranslatorDataAccessLibrary.dll
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\bin\Debug\net5.0\ref\TranslatorDataAccessLibrary.dll
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\bin\Debug\net5.0\TranslatorDataAccessLibrary.pdb
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.AssemblyInfo.cs
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.dll
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\ref\TranslatorDataAccessLibrary.dll
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.pdb
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\bin\Debug\net5.0\TranslatorDataAccessLibrary.runtimeconfig.json
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\bin\Debug\net5.0\TranslatorDataAccessLibrary.runtimeconfig.dev.json
+C:\Users\brAiN\source\repos\TranslatorAPI\TranslatorDataAccessLibrary\obj\Debug\net5.0\TranslatorDataAccessLibrary.genruntimeconfig.cache
